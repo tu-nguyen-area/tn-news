@@ -1,11 +1,11 @@
-import SectionOne from '@/app/ui/home/section-one';
+import SectionZero from '@/app/ui/home/section-zero';
 
 export default function Page() {
   return (
   <>
 
   <main>
-    <SectionOne />
+    <SectionZero />
   </main>
 
   </>
